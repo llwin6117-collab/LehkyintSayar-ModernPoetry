@@ -1,4 +1,4 @@
-name: Build Modern Poetry APK
+name: Build Modern Poetry APK2
 
 on:
   workflow_dispatch:
